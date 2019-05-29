@@ -110,7 +110,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Arvin.cpp" />
+    <ClCompile Include="cesar.cpp" />
+    <ClCompile Include="cesar2.cpp" />
     <ClCompile Include="hola.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
